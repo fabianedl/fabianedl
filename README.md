@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div align="center"><br>
+    <a href="https://github.com/fabianedl">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianedl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianedl&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
+
 <!--
 **fabianedl/fabianedl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
